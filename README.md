@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# advance-video-rental
-=======
 # RentVideo - Video Rental System
 
 A RESTful API service built with Spring Boot to manage an online video rental system.
@@ -60,4 +57,3 @@ A RESTful API service built with Spring Boot to manage an online video rental sy
 ## API Documentation
 
 API documentation is available through Swagger UI at `/swagger-ui.html` when the application is running.
->>>>>>> 9c73c65 (advance video rental)
